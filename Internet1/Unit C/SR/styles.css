@@ -1,0 +1,26 @@
+/*
+ Big J's Deep Dish Pizza
+ Style Sheet
+ Filename: styles.css
+ Author: Gabriel Sfrijan
+ Date: September 8th 2016
+ HTML5 and CSS3 Illustrated Unit C, Skills Review
+ */
+article {
+text-align: left;
+}
+
+#tagline {
+text-align: right;
+}
+
+.contact {
+text-align: right;
+}
+
+header, footer {
+background-color: #000;
+color: #FFF;
+}
+
+
